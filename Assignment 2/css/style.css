@@ -1,0 +1,47 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    text-align: center;
+    font-size: 1.2em;
+    background-image: url(../images/Screenshot\ 2023-10-02\ 023436.png);
+    background-size: cover;
+    color: #fbfcf8;
+    justify-content: center;
+}
+.lyrics{
+    padding: 0% 10% 0% 10%;
+}
+h1,h2{
+    font-family: 'Alfa Slab one';
+}
+img{
+    height: 200px;
+    width: auto;
+    margin: 2%;
+}
+#nav{
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+}
+li{
+    margin-left: 13%;
+    margin-top: 2%;
+    margin-right: 3%;
+
+}
+.x{
+    font-family: 'Lilita One', sans-serif;
+    color: chocolate;
+}
+.x1{
+    font-family: 'Pacifico',sans-serif;
+    color: bisque;
+}
+.x2{
+    font-family: 'Lobster',sans-serif;
+    color: dimgrey;
+}
+.x3{
+    font-family: 'Courgette',sans-serif;
+}
